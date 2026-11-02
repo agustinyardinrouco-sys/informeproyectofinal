@@ -122,6 +122,13 @@ section {
     
 
 }
+.card p {
+    font-size: 1.5rem;
+    color: #ffffff;
+    line-height: 2rem;
+    
+
+}
 
 
 .card-img {
@@ -146,7 +153,7 @@ section {
 }
 
 .card-body p {
-    font-size: 0.9rem;
+    font-size: 30px;
     color: #f8f7f7;
     line-height: 1.5;
 }
